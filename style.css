@@ -150,7 +150,6 @@ nav .nav-content a {
     gap: 24px;
     margin-bottom: 120px;
 
-
 }
 
 .card-box {
@@ -178,4 +177,47 @@ nav .nav-content a {
 .light-p {
     color: #627382;
     font-size: 16px;
+}
+
+
+.brain-content {
+    width: 70%;
+    max-width: 1360px;
+    display: flex;
+    gap: 60px;
+    margin: 0 auto;
+    padding-bottom: 120px;
+    align-items: center;
+}
+
+.brain-box h6 {
+    font-size: 16px;
+    color: #469165;
+    padding-bottom: 16px;
+    line-height: 20px;
+}
+
+.brain-box h2 {
+    font-size: 48px;
+    padding-bottom: 16px;
+}
+
+.brain-box p {
+    font-size: 16px;
+    line-height: 20px;
+    padding-bottom: 40px;
+}
+
+
+
+.icon-text {
+    display: flex;
+    gap: 5px;
+
+
+
+}
+
+.icon-text img {
+    height: 20px;
 }
