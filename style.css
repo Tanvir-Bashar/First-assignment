@@ -209,7 +209,6 @@ nav .nav-content a {
 }
 
 
-
 .icon-text {
     display: flex;
     gap: 5px;
@@ -220,4 +219,81 @@ nav .nav-content a {
 
 .icon-text img {
     height: 20px;
+}
+
+
+#challenge {
+    margin-bottom: 120px;
+}
+
+
+
+.cta-content {
+    width: 70%;
+    max-width: 1360px;
+    margin: 0 auto;
+    background-color: #F7F6F2;
+    border: none;
+    border-radius: 12px;
+    align-items: center;
+}
+
+.cta-text {
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.cta-text h2 {
+    font-size: 40px;
+    padding-bottom: 16px;
+
+}
+
+.cta-text p {
+    font-size: 16px;
+    color: #627382;
+    padding-bottom: 24px;
+}
+
+.cta-text button {
+    font-size: 16px;
+    font-weight: 600px;
+    padding: 12px 16px;
+    background-color: #469165;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+
+#footer {
+    padding: 120px 0px 30px 0px;
+    background-color: #001931;
+}
+
+.footer-container {
+    width: 70%;
+    max-width: 1360px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+
+}
+
+.media-box p {
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-bottom: 16px;
+}
+
+
+
+.end-txt {
+    width: 70%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+    color: #FAFAFA;
+    padding-top: 30px;
 }
