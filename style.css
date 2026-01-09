@@ -24,6 +24,11 @@
 
 }
 
+.btn:hover {
+    background-color: #627382;
+
+}
+
 /* Main style */
 
 header {
@@ -123,6 +128,10 @@ nav .nav-content a {
     border: 1px solid #FFFFFF;
     border-radius: 4px;
 
+}
+
+.btn-2:hover {
+    background-color: #469165;
 }
 
 
@@ -257,7 +266,6 @@ nav .nav-content a {
 
 .cta-text button {
     font-size: 16px;
-    font-weight: 600px;
     padding: 12px 16px;
     background-color: #469165;
     color: #FFFFFF;
@@ -265,6 +273,11 @@ nav .nav-content a {
     border-radius: 4px;
     margin-bottom: 16px;
 }
+
+.cta-text button:hover {
+    background-color: #627382;
+}
+
 
 #footer {
     padding: 120px 0px 30px 0px;
