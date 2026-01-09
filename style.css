@@ -35,6 +35,7 @@
 header {
     background-image: url(images/hero-bg.png);
     background-position: center;
+    background-size: cover;
 
 }
 
