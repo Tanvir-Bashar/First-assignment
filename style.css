@@ -21,6 +21,7 @@
     color: #FFFFFF;
     border: none;
     border-radius: 4px;
+    transition: all 0.5s;
 
 }
 
